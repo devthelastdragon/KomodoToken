@@ -4,6 +4,9 @@
 
 // SPDX-License-Identifier: MIT
 
+// Official Link Smart Contract The Last Dragon (KOMODO) https://bscscan.com/token/0xfaf17a5330dfff5749ff5127c71c341e13e414b0
+// Official Link Pair Pancake Liquidity KOMODO https://bscscan.com/address/0x09eb591a23a687e531a0198cf39c8929495eedd4
+
 /**
    #TheLastDragon(KOMODO)
    5% fee auto add to the liquidity pool to locked forever when selling

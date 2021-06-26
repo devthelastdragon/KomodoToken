@@ -1,0 +1,2 @@
+# KomodoToken
+The Komodo community token is inspired by the Komodo dragon (Varanus komodoensis) which is a member of the Varadinae family monitor lizard endemic to the islands of Komodo, Rinca, Flores and Gili Motang Indonesia.  Local people usually call this animal by the name Ora, mbou/mbau, rugu or land crocodile. In fact, the Komodo dragon is the largest species of lizard that still exists and is one of the ancient creatures that has survived to this day.
